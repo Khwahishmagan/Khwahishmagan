@@ -5,7 +5,7 @@
 <h2 align="center">I am a Developer and Content Creator 👩‍💻✍</h2>
 
 ###
-
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e479eurznavcpgmojc9qm8zsnjlo7d5ckb71wiqy8lr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <p align="left">🔭 I’m currently working on  mern stack<br><br>- 🌱 I’m currently learning mean stack<br><br>- 💬 Ask me about web development</p>
 
 ###
