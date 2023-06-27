@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">TOOLS</h2>
+<h2 align="left">OTHERS</h2>
 
 ###
 
